@@ -15,7 +15,7 @@
 
 ## Technology Used
 * HTML- wich was used to build the structure of the pages.
-* CSS - which was used to style the pages including the left aside navig
+* CSS - which was used to style the pages including the left aside nav
 ## Authors info
 Email - ibra39167271@gmail.com
 ## porfolio sketch
